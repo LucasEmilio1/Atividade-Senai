@@ -5,3 +5,4 @@ git commit
 git add
 git push
 git branch
+git config
